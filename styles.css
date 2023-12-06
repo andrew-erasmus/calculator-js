@@ -108,3 +108,10 @@ h1{
 .input-button.control:active::after {
     background-color: orange;
 }
+#point{
+    margin-left:10px;
+}
+#equals{
+    flex: 1;
+    margin-left: 10px;
+}
